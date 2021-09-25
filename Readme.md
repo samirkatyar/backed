@@ -1,5 +1,9 @@
 Create a new .env file and copy all variables from example.env file into this file and make changes accordingly. 
 
+#Postman Documentation 
+https://documenter.getpostman.com/view/14231632/UUxxgU6c
+
+
 start server : npm start
 
 Create Demo User In DB for Login 
